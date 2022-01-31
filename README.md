@@ -3,5 +3,5 @@ This repository contains various materials that I use in my daily work as well a
 List of resources:
 1. [Examples of using simple linear regression with the `numpy` package](regresion_numpy.ipynb)
 
-If you find the materials on this repo useful feel free to use them.
+If you find the materials on this repo useful feel free to use them. If you feel that something is wrong with the posted materials, please leave a note in the issues section.  
 Bartosz Puchalski
